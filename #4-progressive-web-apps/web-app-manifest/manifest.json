@@ -1,0 +1,12 @@
+{
+  "short_name": "AirHorner",
+  "name": "car",
+  "icons": [
+    {
+      "src": "12.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}
